@@ -66,3 +66,14 @@ Local: Rua Pilocarpina
 Rua Pilocarpina
 Bairro: Igaraçu
 Parnaíba - Piauí
+[2025-01-28T02:37:39.196950] SSID: MillyPhb_MAYKHANNY_5G
+BSSID: 18:0d:2c:f0:b2:36
+IP: 10.0.0.146
+Latitude: -2.9558948
+Longitude: -41.7807268
+Maps: https://www.google.com/maps?q=-2.9558948,-41.7807268
+Endereço:
+Local: Rua Pilocarpina
+Rua Pilocarpina
+Bairro: Igaraçu
+Parnaíba - Piauí
