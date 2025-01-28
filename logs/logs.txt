@@ -8,3 +8,9 @@ BSSID: 18:0d:2c:f0:b2:36
 IP: 10.0.0.146
 Latitude: -2.9558979
 Longitude: -41.7807255
+[2025-01-28T02:00:26.555048] SSID: MillyPhb_MAYKHANNY_5G
+BSSID: 18:0d:2c:f0:b2:36
+IP: 10.0.0.146
+Latitude: -2.9558962
+Longitude: -41.7807253
+Maps: https://www.google.com/maps?q=-2.9558962,-41.7807253
